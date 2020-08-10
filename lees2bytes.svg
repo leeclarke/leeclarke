@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2018 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="400px" height="116px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 400 116"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="800px" height="116px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 800 116"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <font id="FontID0" horiz-adv-x="727" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
@@ -35,7 +35,7 @@ viewBox="0 0 400 116"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0 str0" width="400" height="116"/>
-  <text x="6.02" y="72.84"  class="fil1 fnt0">$ lees2bytes</text>
+  <rect class="fil0 str0" width="800" height="116"/>
+  <text x="206.02" y="72.84"  class="fil1 fnt0">$ lees2bytes</text>
  </g>
 </svg>
