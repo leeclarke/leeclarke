@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://github.com/leeclarke/leeclarke/blob/master/lees2bytes.svgg" \>
-</p>
-
+![](lees2bytes.svg)
 
 
 ### Hi there 👋 I'm a JVM developer working mostly in Groovy and Java to build Microservices that run in the cloud. For fun I explore IOT and communications privacy.
