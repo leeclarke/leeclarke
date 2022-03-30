@@ -19,7 +19,7 @@ Currently learning
 * ![](https://img.shields.io/badge/Tech-Bluetooth-informational?style=flat&logo=bluetooth&logoColor=white&color=brightgreen)
 * ![](https://img.shields.io/badge/Code-vuejs-informational?style=flat&logo=vue.js&logoColor=white&color=brightgreen)
 * ![](https://img.shields.io/badge/Tech-TCP/IP-informational?style=flat&logo=bluetooth&logoColor=white&color=brightgreen)
-* ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=rust&logoColor=white&color=brightgreen)
+* ![](https://img.shields.io/badge/Code-Zig-informational?style=flat&logo=zig&logoColor=white&color=orange)
 * ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 
 
