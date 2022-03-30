@@ -16,11 +16,11 @@ I'm currently working on an IOT and phone communications library to allow for di
 
 Currently learning
 -----------------------
-* ![](https://img.shields.io/badge/Tech-Bluetooth-informational?style=flat&logo=bluetooth&logoColor=white&color=brightgreen)
-* ![](https://img.shields.io/badge/Code-vuejs-informational?style=flat&logo=vue.js&logoColor=white&color=brightgreen)
+* ![](https://img.shields.io/badge/Code-Zig-informational?style=flat&logo=zig&logoColor=orange&color=brightgreen)
+* ![](https://img.shields.io/badge/Code-vuejs-informational?style=flat&logo=vue.js&logoColor=green&color=brightgreen)
+* ![](https://img.shields.io/badge/Tech-Bluetooth-informational?style=flat&logo=bluetooth&logoColor=blue&color=brightgreen)
 * ![](https://img.shields.io/badge/Tech-TCP/IP-informational?style=flat&logo=bluetooth&logoColor=white&color=brightgreen)
-* ![](https://img.shields.io/badge/Code-Zig-informational?style=flat&logo=zig&logoColor=white&color=orange)
-* ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+* ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=brightgreen)
 
 
 ## 🔧 Technologies & Tools
