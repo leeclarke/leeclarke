@@ -17,10 +17,9 @@ I'm currently working on an IOT and phone communications library to allow for di
 Currently learning
 -----------------------
 * ![](https://img.shields.io/badge/Code-Zig-informational?style=flat&logo=zig&logoColor=orange&color=brightgreen)
-* ![](https://img.shields.io/badge/Code-vuejs-informational?style=flat&logo=vue.js&logoColor=green&color=brightgreen)
 * ![](https://img.shields.io/badge/Tech-P2P-informational?style=flat&logo=hyper&logoColor=blue&color=brightgreen)
-* ![](https://img.shields.io/badge/Tech-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
 * ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=brightgreen)
+* ![](https://img.shields.io/badge/Tech-APIHacking-informational?style=flat&logo=hackaday&logoColor=blue&color=brightgreen)
 
 
 ## 🔧 Technologies & Tools
@@ -30,6 +29,8 @@ Currently learning
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Editor-InteliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=brightgreen)
+
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
