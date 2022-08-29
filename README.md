@@ -18,14 +18,14 @@ Currently learning
 -----------------------
 * ![](https://img.shields.io/badge/Code-Zig-informational?style=flat&logo=zig&logoColor=orange&color=brightgreen)
 * ![](https://img.shields.io/badge/Code-vuejs-informational?style=flat&logo=vue.js&logoColor=green&color=brightgreen)
-* ![](https://img.shields.io/badge/Tech-Bluetooth-informational?style=flat&logo=bluetooth&logoColor=blue&color=brightgreen)
-* ![](https://img.shields.io/badge/Tech-TCP/IP-informational?style=flat&logo=bluetooth&logoColor=white&color=brightgreen)
+* ![](https://img.shields.io/badge/Tech-P2P-informational?style=flat&logo=hyper&logoColor=blue&color=brightgreen)
+* ![](https://img.shields.io/badge/Tech-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
 * ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=brightgreen)
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=groovy&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=apachegroovy&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=brightgreen)
